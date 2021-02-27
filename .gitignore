@@ -20,7 +20,7 @@ deploy/
 .versions/
 coverage/
 dist/
-node_modules/
+
 tmp/
 temp/
 hooks/
